@@ -2,7 +2,7 @@
   "name": "personal-site",
   "version": "1.0.0",
   "author": "William Namen",
-  "homepage": "https://wnamen.github.io/personal-site",
+  "homepage": "https://wnamen.github.io/",
   "license": "MIT",
   "description": "My goal for this site was to incorporate a simple, yet elegant design with an easy user interface and navigation.",
   "devDependencies": {

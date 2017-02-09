@@ -5,7 +5,7 @@ class Contact extends Component {
 
 	render = () => {
 	  return (
-			<div className="contactContainer">
+			<div className="contactContainer fade-in">
 				<a href="https://www.linkedin.com/in/williamnamen" target="_blank" className="hvr-grow"><i className="fa fa-linkedin 3x" aria-hidden="true"></i></a>
 				<a href="https://www.angellist.com/william-namen" target="_blank" className="hvr-grow"><i className="fa fa-angellist 3x" aria-hidden="true"></i></a>
 				<a href="https://github.com/wnamen" target="_blank" className="hvr-grow"><i className="fa fa-github 3x" aria-hidden="true"></i></a>

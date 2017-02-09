@@ -6,8 +6,8 @@ class Home extends Component {
 	render = () => {
 	  return (
       <div className="homeContainer">
-        <h2>William Namen</h2>
-        <h4>Software Engineer</h4>
+        <h2 className="fade-in">William Namen</h2>
+        <h4 className="fade-in">Software Engineer</h4>
       </div>
 	  )
 	}

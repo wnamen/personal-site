@@ -6,9 +6,9 @@ class Portfolio extends Component {
 	render = () => {
 	  return (
       <div className="portfolioContainer">
-        <h2>Portfolio</h2>
+        <h2 className="fade-in">Portfolio</h2>
 					<span className="down-arrow hvr-pulse"><i className="fa fa-angle-double-down"></i></span>
-					<section id="cd-timeline" className="cd-container">
+					<section id="cd-timeline" className="cd-container fade-in">
 						<div className="cd-timeline-block">
 							<div className="cd-timeline-img">
 								<i className="fa fa-building" aria-hidden="true"></i>
