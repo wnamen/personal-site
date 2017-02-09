@@ -2,13 +2,14 @@
   "name": "wnamen.github.io",
   "version": "1.0.0",
   "author": "William Namen",
-  "main": "index.html",
+  "homepage": "https://wnamen.github.io/",
   "license": "MIT",
   "description": "My goal for this site was to incorporate a simple, yet elegant design with an easy user interface and navigation.",
   "devDependencies": {
     "react-scripts": "0.8.5"
   },
   "dependencies": {
+    "express": "^4.14.1",
     "jquery": "^3.1.1",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
