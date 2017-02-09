@@ -6,11 +6,11 @@
   "license": "MIT",
   "description": "My goal for this site was to incorporate a simple, yet elegant design with an easy user interface and navigation.",
   "devDependencies": {
-    "gh-pages": "^0.12.0",
     "react-scripts": "0.8.5"
   },
   "dependencies": {
     "express": "^4.14.1",
+    "gh-pages": "^0.12.0",
     "jquery": "^3.1.1",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
