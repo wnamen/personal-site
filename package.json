@@ -2,6 +2,7 @@
   "name": "wnamen.github.io",
   "version": "1.0.0",
   "author": "William Namen",
+  "main": "index.html",
   "license": "MIT",
   "description": "My goal for this site was to incorporate a simple, yet elegant design with an easy user interface and navigation.",
   "devDependencies": {
