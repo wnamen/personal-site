@@ -15,6 +15,22 @@ class Portfolio extends Component {
 							</div>
 
 							<div className="cd-timeline-content">
+								<h2>BioDesign Mail App</h2>
+								<div className="portfolio-img">
+									<a href="https://appetize.io/app/ecdpwre1d9rkp9k399zymyu1p8?device=iphone6s&scale=75&orientation=portrait&osVersion=10.2" target="_blank"><img src="/imgs/biodesignapp.png" role="presentation"/></a>
+								</div>
+								<p>This is a static IOS app that I built for a coding challenge I received to build a mobile mail app in less than a week. </p>
+								<a href="https://appetize.io/app/ecdpwre1d9rkp9k399zymyu1p8?device=iphone6s&scale=75&orientation=portrait&osVersion=10.2" target="_blank" className="cd-read-more">Check it out</a>
+								<span className="cd-date">Feb 2017</span>
+							</div>
+						</div>
+
+						<div className="cd-timeline-block">
+							<div className="cd-timeline-img">
+								<i className="fa fa-building" aria-hidden="true"></i>
+							</div>
+
+							<div className="cd-timeline-content">
 								<h2>Legion Analytics</h2>
 								<div className="portfolio-img">
 									<a href="https://www.legionanalytics.com" target="_blank"><img src="/imgs/legionanalytics.png" role="presentation"/></a>
